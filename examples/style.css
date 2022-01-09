@@ -1,0 +1,11 @@
+.canvas-container {
+    display: flex;
+    justify-content: center;
+}
+
+.fps {
+    position: absolute;
+    font-size: x-large;
+    font-weight: bolder;
+    color: #ff0000;
+}
